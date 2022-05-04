@@ -1,0 +1,49 @@
+{
+    "skills": [
+        {
+            "name": "MOODA",
+            "img": "mooda",
+            "desc": "모바일 어플리케이션 감정다이어리 MOODA를 웹사이트로 옮겨서 구현.",
+            "address": "https://youtu.be/Maf2TSBktdM",
+            "skills": [
+                {"name": "html"},
+                {"name": "css"},
+                {"name": "javascript"},
+                {"name": "jquery"},
+                {"name": "java"},
+                {"name": "jsp"},
+                {"name": "mysql"},
+                {"name": "tomcat"}
+            ],
+            "git": "https://github.com/bsu7959/MOODA"
+        },
+        {
+            "name": "부동산과 소비의 상관관계 탐색",
+            "img": "secProject",
+            "desc": "빅데이터를 이용, 부동산과 소비의 상관관계를 파악하기 위해 그래프로 시각화.",
+            "address": "https://bsu7959.github.io/2ndProject/ccc/index.html",
+            "skills": [
+                {"name": "html"},
+                {"name": "css"},
+                {"name": "javascript"},
+                {"name": "jquery"},
+                {"name": "rstudio"}
+            ],
+            "git": "https://github.com/bsu7959/2ndProject"
+        },
+        {
+            "name": "개인 포트폴리오 사이트",
+            "img": "portpolio",
+            "desc": "리액트를 손에 익힐 목적으로 제작한 개인 포트폴리오 사이트.",
+            "address": "/",
+            "skills": [
+                {"name": "html"},
+                {"name": "css"},
+                {"name": "javascript"},
+                {"name": "react"}
+            ],
+            "git": "https://github.com/bsu7959/portfolio"
+        }
+    ]
+}
+
