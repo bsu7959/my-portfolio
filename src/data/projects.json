@@ -35,7 +35,7 @@
             "name": "개인 포트폴리오 사이트",
             "img": "portpolio",
             "desc": "리액트를 손에 익힐 목적으로 제작한 개인 포트폴리오 사이트.",
-            "address": "/",
+            "address": "https://bsu7959.github.io/my-portfolio/",
             "skills": [
                 {"name": "html"},
                 {"name": "css"},
